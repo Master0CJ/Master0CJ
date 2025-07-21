@@ -1,4 +1,4 @@
-<h1 align="center">💫Hi 👋, I'm Chameen</h1>
+<h1 align="center">Hi 👋, I'm Chameen</h1>
 <h3 align="center">I am currently pursuing a BSc Hons degree in Artificial Intelligence at the University of Moratuwa.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master0cj" alt="master0cj" /></a> </p>
