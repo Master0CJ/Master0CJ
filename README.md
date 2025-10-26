@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chameen</h1>
-<h3 align="center">I am currently pursuing a BSc Hons degree in Artificial Intelligence at the University of Moratuwa.</h3>
+
+# 💫 About Me:
+🎓 I am currently pursuing a BSc Hons degree in Artificial Intelligence at University of Moratuwa.<br><br>💻My passion lies in Machine Learning, Agent Systems and Deep Learning.<br><br>🧠I love sharing my knowledge, especially AI.<br><br>✉️ How to reach me:   <br>                                      🚀chameen.me@gmail.com<br>                                      🚀alahapperumacj.22@uom.lk <br><br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
