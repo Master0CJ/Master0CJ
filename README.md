@@ -1,26 +1,21 @@
 <h1 align="center">Hi 👋, I'm Chameen</h1>
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>💫 About Me:</h3>
-      <p>🎓 I am currently pursuing a BSc Hons degree in Artificial Intelligence at University of Moratuwa.</p>
-      <p>💻 My passion lies in Machine Learning, Agent Systems and Deep Learning.</p>
-      <p>🧠 I love sharing my knowledge, especially AI.</p>
-      <p>✉️ <strong>How to reach me:</strong><br>
-      🚀 chameen.me@gmail.com<br>
-      🚀 alahapperumacj.22@uom.lk</p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="350" alt="AI animation" />
-    </td>
-  </tr>
-</table>
-
-
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500"> </p> <br><br>
+    
+# 💫 About Me: 
+🎓 I am currently pursuing a BSc Hons degree in Artificial Intelligence at University of Moratuwa.<br><br> 
+💻My passion lies in Machine Learning, Agent Systems and Deep Learning.<br><br> 
+🧠I love sharing my knowledge, especially AI.<br><br>
+✉️ How to reach me:<br> 
+🚀chameen.me@gmail.com<br> 
+🚀alahapperumacj.22@uom.lk<br><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chameenj/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chameenj/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME)
+
+
 
 # 💻 Tech Stack:
 
